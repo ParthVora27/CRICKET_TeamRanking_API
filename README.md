@@ -3,3 +3,5 @@
 Run this Command After downloading Project:
 npm i
 npm run dev
+
+#Functions 
