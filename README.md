@@ -7,5 +7,8 @@
 # Features
 •	CRUD Functionality.
 
+# Routers
+/teams
+
 
 
