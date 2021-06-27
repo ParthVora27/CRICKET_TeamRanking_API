@@ -1,7 +1,11 @@
 # CRICKET_TeamRanking_API
  
-Run this Command After downloading Project:
-npm i
-npm run dev
+# Commands to Run Projects
+•	npm i                                                                                                     
+•	npm run dev
 
-#Functions 
+# Features
+•	CRUD Functionality.
+
+
+
